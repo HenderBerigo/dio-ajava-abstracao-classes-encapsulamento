@@ -5,8 +5,8 @@ public class Main {
         // male.setName("Hender Berigo");
         male.setAge(49);
 
-        var female = new Person("Laila Cainelli");
-        // female.setName("Laila Cainelli");
+        var female = new Person("Joana Fonseca");
+        // female.setName("Joana Fonseca");
         female.setAge(42);
 
         System.out.println("------");
